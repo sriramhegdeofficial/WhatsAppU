@@ -1,0 +1,1 @@
+{"ast":null,"code":"const Index = () => {};","map":{"version":3,"sources":["D:/web projects/Chat App/client/pages/index.js"],"names":["Index"],"mappings":"AAGA,MAAMA,KAAK,GAAG,MAAM,CAEnB,CAFD","sourcesContent":["\r\n\r\n\r\nconst Index = () => {\r\n    \r\n}"]},"metadata":{},"sourceType":"script"}

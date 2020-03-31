@@ -1,0 +1,1 @@
+{"ast":null,"code":"var Login = function Login() {\n  return;\n};","map":{"version":3,"sources":["D:/web projects/Chat App/client/pages/login.js"],"names":["Login"],"mappings":"AAGA,IAAMA,KAAK,GAAG,SAARA,KAAQ,GAAM;AAChB;AACH,CAFD","sourcesContent":["\r\n\r\n\r\nconst Login = () => {\r\n    return \r\n}"]},"metadata":{},"sourceType":"script"}
