@@ -1,7 +1,7 @@
 
 
 import GInput from './GInput';
-
+import React from 'react';
 
 
 const LoginBox = (props) => {

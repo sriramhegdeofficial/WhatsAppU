@@ -1,3 +1,4 @@
+import React from 'react';
 import Layout from './../components/Layout';
 import LoginBox from './../components/LoginBox';
 import {Component} from 'react';
